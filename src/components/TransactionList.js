@@ -17,7 +17,7 @@ const TransactionList = () => {
 
   const handleDetailsClick = (record) => {
     console.log('Transaction Details:', record);
-    // Here you can implement further logic to handle the details click, such as showing a modal or navigating to another page.
+    
   };
 
   const columns = [
